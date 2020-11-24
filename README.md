@@ -9,6 +9,6 @@ enter these commands in mysql command line tool:
 fix environment variables *MYSQL_USER* and *MYSQL_DB_PASS* which are used in application.properties
 
 available APIs:
-/car?id={id} - to find a car with specific id
-/car/all - to show all cars
-/car/add?model={model}&colour={colour} - to add a new car
+* /car?id={id} - to find a car with specific id
+* /car/all - to show all cars
+* /car/add?model={model}&colour={colour} - to add a new car
